@@ -19,7 +19,7 @@ Running the script `rrt_star_connect.py` will generate an output file, and also 
 
 ![Map](figures/map.png)
 
-The map shows the robot in blue, and a sample point used as the goal in this example. The results will be shown live, and after the number of iterations specified, the path should converge to a very short path from the origin to the goal, similar to the following image:
+The map shows the robot in red, and a sample point used as the goal in this example in blue. The results will be shown live, and after the number of iterations specified, the path should converge to a very short path from the origin to the goal, similar to the following image:
 
 ![Results](figures/rrt_star_path.png)
 
