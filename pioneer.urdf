@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<robot name="pioneer">
+  <link name="base_footprint">
+    <visual>
+      <origin xyz="0 0 0.11"/>
+      <geometry>
+        <cylinder length="0.22" radius="0.25"/>
+      </geometry>
+    </visual>
+  </link>
+</robot>

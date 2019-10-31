@@ -1,0 +1,3 @@
+<launch>
+      <param name="robot_description" textfile="$(find rrt_star_connect)/pioneer.urdf"  />
+ </launch>
